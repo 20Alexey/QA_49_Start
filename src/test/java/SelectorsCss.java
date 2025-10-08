@@ -76,8 +76,8 @@ public class SelectorsCss {
 
 
 
-       // pause(5);
-        //driver.quit();
+        pause(5);
+        driver.quit();
 
     }
 
